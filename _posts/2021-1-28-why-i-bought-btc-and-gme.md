@@ -1,9 +1,8 @@
 ---
 layout: post
-title: README.md
+title: Why I bought BTC and GME at their peak
 ---
 
-# Why I bought BTC and GME at their peak
 As somebody who’s currently in-between income streams, putting $2k (now ~$4k since original writing) into two financial markets experiencing months of volatility doesn’t seem like the smartest move. But it was worth it, and I’ll tell you why.
 
 ![](/images/robinhood-trans-proof-2021-01-28.jpg "Proof")
