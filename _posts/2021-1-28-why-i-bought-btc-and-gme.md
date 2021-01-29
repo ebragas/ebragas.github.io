@@ -6,7 +6,7 @@ title: README.md
 # Why I bought BTC and GME at their peak
 As somebody who’s currently in-between income streams, putting $2k (now ~$4k since original writing) into two financial markets experiencing months of volatility doesn’t seem like the smartest move. But it was worth it, and I’ll tell you why.
 
-![](robinhood-trans-proof-2021-01-28.jpg "Proof")
+![](/images/robinhood-trans-proof-2021-01-28.jpg "Proof")
 
 Education.
 
@@ -15,7 +15,7 @@ Let’s be clear, we’re not talking about YOLO money here. Every cent I put in
 
 Which is the very point! Before making some actual commitment to buying and owning BTC, I was interested but had never actually done anything about it. Why should I when more pressing life and financial matters exist? It was this same line of reasoning that led me to defer doing any of what I considered the “prerequisite” learning about cryptocurrency in 2017.
 
-![](robinhood-btc-2021-01-28.png)
+![](/images/robinhood-btc-2021-01-28.png)
 
 And now here we are at $33k, where even if I had bought at the December 2017 peak I still would have made a nearly 200% return.
 
@@ -24,7 +24,7 @@ But what I have now is far more valuable! I have a relationship to cryptocurrenc
 ## Bringing it into the present
 Today GME is sitting at what previously would have been an unbelievable high, and the FOMO would be _real_ if I had not bought ~2.5 shares myself yesterday.
 
-![](robinhood-gme-2021-01-28.jpg)
+![](/images/robinhood-gme-2021-01-28.jpg)
 
 Again, the price I bought at was arguably a terrible investment, assuming this hypothetical scenario of infinite demand resulting from the impending short squeeze doesn’t take place.
 
