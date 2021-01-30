@@ -3,7 +3,6 @@ layout: post
 title: Trading Research
 ---
 
-# 2021.1.29 - Trading Research
 What a day! What a week! It’s been a thrilling ride and I would have paid double to be able to participate in all of this. 
 
 In fact as a side note I would have but Robinhood blocked my purchase... So I'll definitely be leaving them as soon as this is all over.
@@ -113,6 +112,7 @@ My notes on stock trading fundamentals. Nothing too exciting or even specific to
 	* sometimes doesn't get filled if the market is moving fast (volatile?)
 * **stop order**
 	* a trigger so order only executes at that price
+
 ### Relationships
 * [understanding investments](https://learn.robinhood.com/articles/5rLPuobXWssBWHodCe6M0E/what-is-an-investment/)
 	* trading resources (e.g. money or credit) for assets (e.g. stock or real estate)
